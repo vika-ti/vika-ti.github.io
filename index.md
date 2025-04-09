@@ -14,10 +14,10 @@ My favorite quote that I have recently come across:
 > "Problems are not stop signs, they are guidelines." - Robert Schuller
 
 ## Learning goals
-- [] Practice JavaScript, rather than using Bootstrap.
-- [] Learn to work with a large team, since I have only worked with small ones before.
-- [] Learn about the general Software Engineering process.
-- [] Get more comforable with Git and GitHub, especially `git merge`.
+- [ ] Practice JavaScript, rather than using Bootstrap.
+- [ ] Learn to work with a large team, since I have only worked with small ones before.
+- [ ] Learn about the general Software Engineering process.
+- [ ] Get more comforable with Git and GitHub, especially `git merge`.
 
 ## Education
 Classes I am taking this quarter include 
