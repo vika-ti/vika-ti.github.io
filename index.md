@@ -8,7 +8,7 @@ I'm Victoria, a third year Computer Science major and transfer student at [UCSD]
 - [View the README file](./README.md)
 - I love traveling and my most recent trip was to Portugal.
 
-![Pastel de nata](./images/PastelDeNata.jpg)
+![Pastel de nata](./images/PastelDeNata.jpeg)
 
 My favorite quote that I have recently come across:
 > "Problems are not stop signs, they are guidelines." - Robert Schuller
